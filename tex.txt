@@ -1,0 +1,1 @@
+hello, this is a sample file. We need to count the number of occurences of each word in this file.
